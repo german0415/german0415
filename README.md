@@ -1,8 +1,13 @@
 
 
-# 👋 ¡Hola, Bienvenido a mi perfil!  
+<h1 align="center">👋 ¡Hola, Bienvenido a mi perfil! </h1>
 
-![Banner]([[https://mi-imagen-enlace.com/banner.png](https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/15F60/production/_103225998_sunset3.jpg.webp)](https://www.dzoom.org.es/wp-content/uploads/2018/09/candilazo-amanecer-atardecer-5.jpg))  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/052288db-3949-4bc0-97f6-56b84cbfac8c" width="400">
+</p>
+
+
+
 
 ## **German Yesid Parada Quimbayo**  
 ### *Ingeniero de Sistemas y Telecomunicaciones*  
@@ -22,7 +27,6 @@ Me considero una persona **RESPETUOSA, AMABLE, RESPONSABLE, PROACTIVA Y COMPROME
 
 ### 💻 **Las tecnologías que más uso:**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
- 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat&logo=salesforce&logoColor=white)  
@@ -33,14 +37,12 @@ Me considero una persona **RESPETUOSA, AMABLE, RESPONSABLE, PROACTIVA Y COMPROME
 ### 🚀 **Otras tecnologías que conozco:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
-
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
 ---
 
 ### 🎓 **Donde he estudiado:**  
 ![Universidad de Manizales](https://img.shields.io/badge/Universidad_de_Manizales-Blue?style=flat&logo=google-scholar&logoColor=white)  
-   
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=udemy&logoColor=white)  
 
 --->
