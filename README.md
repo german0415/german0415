@@ -4,10 +4,6 @@
 # 👋 ¡Hola, Bienvenido a mi perfil!  
 
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a09af160-581e-4928-b452-3dd998c3587d" width="400">
-</div>
-
 
 ## **German Yesid Parada Quimbayo**  
 ### *Ingeniero de Sistemas y Telecomunicaciones*  
