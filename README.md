@@ -5,7 +5,7 @@
 
 
 
-## **German Yesid Parada Quimbayo**  
+## **Soy German Yesid Parada Quimbayo**  
 ### *Ingeniero de Sistemas y Telecomunicaciones*  
 
 Soy estudiante de la **Universidad de Manizales**, actualmente en **5º semestre** de Ingeniería de Sistemas y Telecomunicaciones.  
@@ -48,5 +48,6 @@ Me considero una persona **RESPETUOSA, AMABLE, RESPONSABLE, PROACTIVA Y COMPROME
 ### 🎓 **Donde he estudiado:**  
 ![Universidad de Manizales](https://img.shields.io/badge/Universidad_de_Manizales-Blue?style=flat&logo=google-scholar&logoColor=white)  
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=flat&logo=udemy&logoColor=white)  
+![Platzi](https://www.google.com/url?sa=i&url=https%3A%2F%2Fplatzi.com%2F&psig=AOvVaw1EMRbvB0Vb5TGeheM_uQ7b&ust=1757642027161000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDanffMz48DFQAAAAAdAAAAABAE)
 
 --->
